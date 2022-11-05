@@ -1,7 +1,22 @@
-# NJNU C Programming Language Course (Fall 2022)
+# NJNU C Language Programming Course (Fall 2022)
 
 ## Course Description
-C is a procedural programming language. It was initially developed by Dennis Ritchie as a system programming language to write operating system. The main features of C language include low-level access to memory, simple set of keywords, and clean style, these features make C language suitable for system programming like operating system or compiler development. This course is suitable for undergraduate students who major in CS. No prior knowledge of C progamming is assumed.
+**Course aim** is: training students to grasp the method of structured programming and modular program design method, can use C language to analysis problem, design function, programming. Students should know: 
+1. Basic concepts of programming: data types, statement, function, storage structure, etc; 
+2. Structured programming method; 
+3. Modular program design method; 
+4. Classic algorithms based on linear structure.
+
+C is process-oriented programming language which has profound influence, is also the main way of learning to the object-oriented programming. The main contents are as follows: 
+1. Sequence structure program based on the I/O and operation of numerical variables. 
+2. Branch, loop structure of program based on the numerical variables. 
+3. Structured programming based on one/two dimensional array. 
+4. Modular program design based on numerical variables. 
+5. Modularized program design based on array. 
+6. Programming based on custom types. 
+7. Programming based on pointer and link list.
+
+This course (Course Code: 100809192204) is suitable for undergraduate students who major in CS. No prior knowledge of C progamming is assumed.
 
 ## Instructor
 Yanhui Gu (Office Hour: 明理楼317, Tuesdays 2-4pm, or by appointment.)<br />
