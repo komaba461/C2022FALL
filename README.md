@@ -1,10 +1,10 @@
-# Homework of NJNU C Language Course 2022 Fall
+# NJNU C Programming Language Course (Fall 2022)
 
 ## Course Description
 C is a procedural programming language. It was initially developed by Dennis Ritchie as a system programming language to write operating system. The main features of C language include low-level access to memory, simple set of keywords, and clean style, these features make C language suitable for system programming like operating system or compiler development. This course is suitable for undergraduate students who major in CS. No prior knowledge of C progamming is assumed.
 
 ## Instructor
-Yanhui Gu (Office Hour: 明理楼317, Tuesdays 2-4pm, or by appointment.)
+Yanhui Gu (Office Hour: 明理楼317, Tuesdays 2-4pm, or by appointment.)<br />
 Teaching Assistant: Xiaojian Chen
 
 ## Time and Location
